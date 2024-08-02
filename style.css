@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  margin: 20px 20px;
+  color: deeppink;
+}
+
+p {
+  margin: 20px 20px;
+}
+
+a {
+  color: deeppink;
+  margin: 20px 20px;
+}
+
+h2 {
+  margin: 20px 20px;
+  color: deeppink;
+}
+
+section {
+  margin: 20px 20px;
+  background-color: pink;
+}
+
+footer {
+  margin: 20px 20px;
+  background-color: deeppink;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
